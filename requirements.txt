@@ -13,7 +13,7 @@ Unidecode
 soundcard
 pyworld
 loguru
-scipy==1.10.0
+scipy
 matplotlib==3.7.0
 matplotlib-inline
 librosa
